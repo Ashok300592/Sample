@@ -1,2 +1,1 @@
-# Sample
-Sample
+Hi, this is Master branch
