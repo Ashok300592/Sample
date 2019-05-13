@@ -1,6 +1,4 @@
 Hi, this is Master branch.
 Changing to test pull request.
 Adding text to test pull request merge.
-hello
-This is master branch
-
+hi This is master branch
