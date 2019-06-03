@@ -1,1 +1,1 @@
-hi this is c.txt file
+this is c.txt file
