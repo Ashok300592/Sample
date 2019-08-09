@@ -1,7 +1,7 @@
 version: 0.0
 os: windows
 files:
-  - source: \a.txt
+  - source: /
     destination: c:\inetpub\wwwroot\tempsite
 hooks:
   BeforeInstall:
